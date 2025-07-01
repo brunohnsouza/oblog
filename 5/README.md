@@ -83,6 +83,8 @@ Alguns projetos começam como monolíticos e, conforme escalam, migram partes es
 
 A escolha entre monolítico e microsserviços depende de vários fatores, como o tamanho do projeto, a previsão de crescimento, a estrutura da equipe e as exigências tecnológicas. Para projetos menores, a simplicidade e a rapidez de uma arquitetura monolítica são atrativas. No entanto, para sistemas complexos que precisam de escalabilidade e flexibilidade, os microsserviços são a melhor escolha.
 
+![7f90f704-cea1-424a-b99d-ea35dab2b0c7](https://github.com/user-attachments/assets/fbc16fcc-0e12-4ff8-8274-c013bbe8e8a1)
+
 ### Conclusão
 
 Ao decidir entre essas arquiteturas, é essencial considerar tanto as necessidades atuais quanto as projeções futuras do projeto. A arquitetura monolítica pode ser a escolha certa para começar, mas conforme o sistema cresce, uma transição para microsserviços pode se tornar necessária para garantir escalabilidade e eficiência. Avaliar essas variáveis com cuidado permitirá construir um software sustentável, ágil e capaz de evoluir com o tempo.
