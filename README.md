@@ -18,5 +18,11 @@
       <td>21/02/2025</td>
       <td><img src="./1/.github/thumbnail.png" alt="Thumbnail" width="100"></td>
     </tr>
+    <tr>
+      <td>2</td>
+      <td><a href="./2/">DeepSeek R1: Como o modelo de IA open source da China está revolucionando o mercado e ajudando desenvolvedores</a></td>
+      <td>28/01/2025</td>
+      <td><img src="./2/.github/thumbnail.png" alt="Thumbnail" width="100"></td>
+    </tr>
   </tbody>
 </table>
