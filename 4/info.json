@@ -1,8 +1,8 @@
 {
-    "title": "Anti-padrões e Padrões Arquiteturais: Construindo Software da Forma Certa",
-    "description": "Descubra o que são anti-padrões e padrões arquiteturais e como eles podem influenciar a qualidade do seu software.",
+    "title": "Gerenciadores de Pacotes JavaScript: Como Escolher o Melhor para Seus Projetos",
+    "description": "Entenda como ferramentas como npm, Yarn, Pnpm e Deno tornam o processo de codificação mais eficiente e organizado, permitindo que você crie projetos de forma mais ágil e estruturada.",
     "tags": [
-        "Arquitetura de Software"
+        "JavaScript"
     ],
-    "date": "14/10/2024"
+    "date": "21/08/2024"
 }
