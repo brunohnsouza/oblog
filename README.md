@@ -13,6 +13,17 @@
   <tbody>
     <tr>
       <td>
+        <a href="./10/">Waterfall vs. Ágil: Qual Metodologia Escolher para seu Projeto?</a>
+      </td>
+      <td>
+        03/07/2025
+      </td>
+      <td>
+        <img src="./10/.github/thumbnail.jpeg" alt="Thumbnail" width="100">
+      </td>
+    </tr>
+    <tr>
+      <td>
         <a href="./9/">Dominando o Node.js: Guia Prático das APIs Nativas Mais Importantes</a>
       </td>
       <td>
