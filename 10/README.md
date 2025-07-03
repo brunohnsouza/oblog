@@ -13,6 +13,8 @@ No desenvolvimento de software, escolher a metodologia de gerenciamento de proje
 
 ### O que é o Modelo Waterfall?
 
+![Cascata](https://github.com/user-attachments/assets/6707028b-b17c-4b08-9a62-4dd86a94b78c)
+
 O modelo Waterfall, ou cascata, é uma metodologia tradicional e sequencial, onde cada fase do ciclo de vida do projeto deve ser concluída antes que a próxima comece. As etapas típicas do Waterfall incluem:
 
 1. **Levantamento de Requisitos**: Nesta fase inicial, todos os requisitos do software são coletados e documentados de maneira clara.
@@ -44,6 +46,8 @@ O modelo Waterfall, ou cascata, é uma metodologia tradicional e sequencial, ond
 - **Risco Elevado**: Se houver um erro em fases iniciais, isso pode não ser identificado até a fase de testes, resultando em grandes retrabalhos.
 
 ### O que é a Metodologia Ágil?
+
+![Ágil](https://github.com/user-attachments/assets/c01b356c-a55d-4864-b360-d285925997df)
 
 A metodologia **Ágil** é baseada em ciclos iterativos e incrementais de desenvolvimento. Em vez de seguir uma sequência rígida, o Ágil foca em entregas contínuas e rápidas de pequenas partes funcionais do software, permitindo ajustes frequentes e feedback constante dos clientes. As principais fases do Ágil incluem:
 
