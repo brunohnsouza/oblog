@@ -4,7 +4,7 @@
 
 ## Informações
 
-- **Tags:** Blockchain, Criptomoedas
+- **Tags:** Blockchain
 - **Data de Publicação:** 08/08/2024 
 
 ## Artigo

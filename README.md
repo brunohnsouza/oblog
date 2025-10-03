@@ -13,6 +13,17 @@
   <tbody>
     <tr>
       <td>
+        <a href="./11/">Teste de Software e Qualidade: Como o Checklist CARTER Ajuda a Garantir Projetos Mais Confiáveis</a>
+      </td>
+      <td>
+        03/10/2025
+      </td>
+      <td>
+        <img src="./11/.github/thumbnail.jpeg" alt="Thumbnail" width="100">
+      </td>
+    </tr>
+    <tr>
+      <td>
         <a href="./10/">Waterfall vs. Ágil: Qual Metodologia Escolher para seu Projeto?</a>
       </td>
       <td>

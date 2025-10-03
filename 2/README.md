@@ -4,7 +4,7 @@
 
 ## Informações
 
-- **Tags:** Web3, Internet
+- **Tags:** Web3
 - **Data de Publicação:** 31/07/2024 
 
 ## Artigo

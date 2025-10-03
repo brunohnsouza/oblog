@@ -4,7 +4,7 @@
 
 ## Informações
 
-- **Tags:** Metodologia de projeto, Waterfall, Ágil, Gestão de projetos
+- **Tags:** Metodologia de projeto, Gestão de projetos
 - **Data de Publicação:** 03/07/2025  
 
 ## Artigo
