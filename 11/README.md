@@ -26,7 +26,7 @@ Mas a verdade é que **testar vai muito além da execução** — envolve **veri
 
 O teste é composto por **duas grandes etapas**:
 
-IMAGEM
+![VModel](https://github.com/user-attachments/assets/301ca1f1-9ad1-410e-83ff-b263c10840b0)
 
 #### Verificação (Abordagem Estática)
 
