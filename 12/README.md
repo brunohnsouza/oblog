@@ -1,4 +1,4 @@
-# UML explicada: Estrutura, comportamento e interação de sistemas
+# UML explicada: estrutura, comportamento e interação de sistemas
 
 ![Thumbnail](.github/thumbnail.jpeg)
 
