@@ -16,7 +16,7 @@
         <a href="./12/">UML explicada: estrutura, comportamento e interação de sistemas</a>
       </td>
       <td>
-        Algo aqui...
+        18/03/2026
       </td>
       <td>
         <img src="./12/.github/thumbnail.jpeg" alt="Thumbnail" width="100">
