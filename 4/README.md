@@ -4,7 +4,7 @@
 
 ## Informações
 
-- **Tags:** JavaScript
+- **Tags:** Desenvolvimento Web
 - **Data de Publicação:** 21/08/2024 
 
 ## Artigo

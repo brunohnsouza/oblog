@@ -4,7 +4,7 @@
 
 ## Informações
 
-- **Tags:** Metodologia de projeto, Gestão de projetos
+- **Tags:** Engenharia de Software
 - **Data de Publicação:** 03/07/2025  
 
 ## Artigo

@@ -4,7 +4,7 @@
 
 ## Informações
 
-- **Tags:** Node.js, JavaScript
+- **Tags:** Desenvolvimento Web
 - **Data de Publicação:** 21/02/2025  
 
 ## Artigo

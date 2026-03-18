@@ -4,7 +4,7 @@
 
 ## Informações
 
-- **Tags:** Gerência de Configuração
+- **Tags:** Engenharia de Software
 - **Data de Publicação:** 28/11/2024  
 
 ## Artigo

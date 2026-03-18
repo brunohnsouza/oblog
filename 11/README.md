@@ -4,7 +4,7 @@
 
 ## Informações
 
-- **Tags:** Teste de Software, Qualidade de Software
+- **Tags:** Qualidade de Software
 - **Data de Publicação:** 03/10/2025  
 
 ## Artigo

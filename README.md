@@ -13,6 +13,17 @@
   <tbody>
     <tr>
       <td>
+        <a href="./12/">UML explicada: estrutura, comportamento e interação de sistemas</a>
+      </td>
+      <td>
+        Algo aqui...
+      </td>
+      <td>
+        <img src="./12/.github/thumbnail.jpeg" alt="Thumbnail" width="100">
+      </td>
+    </tr>
+    <tr>
+      <td>
         <a href="./11/">Teste de Software e Qualidade: Como o Checklist CARTER Ajuda a Garantir Projetos Mais Confiáveis</a>
       </td>
       <td>

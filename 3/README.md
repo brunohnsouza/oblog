@@ -4,7 +4,7 @@
 
 ## Informações
 
-- **Tags:** Blockchain
+- **Tags:** Sistemas Distribuídos
 - **Data de Publicação:** 08/08/2024 
 
 ## Artigo
