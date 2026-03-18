@@ -5,7 +5,7 @@
 ## Informações
 
 - **Tags:** Engenharia de Software, Arquitetura de Software
-- **Data de Publicação:** 
+- **Data de Publicação:** 18/03/2026
 
 ## Artigo
 
